@@ -1,0 +1,12 @@
+body {
+    color: "red"; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.button_merah { /*buat class  tidak bersifat unik sehingga dapat dipanggil berkali2 dalam html*/
+    color: red;
+}
+#button_hijau { /*buat id bersifat unik sehingga tdk dapat dipanggil berkali2 dalam html*/
+    color: green; 
+}
